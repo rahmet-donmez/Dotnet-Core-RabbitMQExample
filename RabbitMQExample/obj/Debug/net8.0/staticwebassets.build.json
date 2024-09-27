@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yQBHyEzZFukuddcJEGObAKCpqfBB1RJw/t5mqsquYL8=",
+  "Source": "RabbitMQExample",
+  "BasePath": "_content/RabbitMQExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
